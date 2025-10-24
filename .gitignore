@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# pytest cache
+.pytest_cache/
+
+# Streamlit file uploads (if any)
+.streamlit/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# pipenv
+Pipfile.lock
+
+# pip cache
+pip-log.txt
+
+# local env
+.local/
